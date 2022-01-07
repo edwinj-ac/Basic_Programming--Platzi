@@ -1,1 +1,5 @@
 npm install johnny-five
+
+Cargar en el IDLE de arduino el ejemplo:
+    StandardFirmata (Ejemplos/Firmata)
+    
